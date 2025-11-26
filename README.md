@@ -12,7 +12,7 @@ Me chamo Daniel Garcêz, tenho 22 anos e sou natural de São Paulo. Concluí o e
             src="https://custom-icon-badges.demolab.com/github/stars/DanielsGarcez?color=cb9633&style=for-the-badge&labelColor=ffb833&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/DanielsGarcez?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
