@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Daniel Garcêz
+# 👨‍💻 Daniel Garcêz
 
 **`Desenvolvedor Front-End`**
 
