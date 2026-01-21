@@ -30,8 +30,7 @@ Me chamo Daniel Garcêz, tenho 22 anos e sou natural de São Paulo. Concluí o e
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;"
-    style="border-radius: 50%" 
+    style="margin-right: 10px; border-radius: 25%"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
@@ -39,8 +38,7 @@ Me chamo Daniel Garcêz, tenho 22 anos e sou natural de São Paulo. Concluí o e
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px;" 
-    style="border-radius: 50%" 
+    style="margin-right: 10px; border-radius: 25%"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
@@ -48,8 +46,7 @@ Me chamo Daniel Garcêz, tenho 22 anos e sou natural de São Paulo. Concluí o e
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
-    style="padding-right: 10px;" 
-    style="border-radius: 50%" 
+    style="margin-right: 10px; border-radius: 25%"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <!-- <img 
