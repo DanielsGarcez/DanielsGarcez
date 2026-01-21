@@ -38,7 +38,7 @@ Me chamo Daniel Garcêz, tenho 22 anos e sou natural de São Paulo. Concluí o e
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="margin-right: 10px; border-radius: 25%;"
+    style="margin-right: 10px; border-radius: 2rem;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
