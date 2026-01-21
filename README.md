@@ -4,23 +4,6 @@
 
 Me chamo Daniel Garcêz, tenho 22 anos e sou natural de São Paulo. Concluí o ensino superior em Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e busco me especializar ainda mais na área.
 
-<p align="left">
-    <a href="https://github.com/DanielsGarcez?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/DanielsGarcez?color=cb9633&style=for-the-badge&labelColor=ffb833&logo=star&label=estrelas&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/DanielsGarcez?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/DanielsGarcez?color=7d33cb&labelColor=9633ff&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
