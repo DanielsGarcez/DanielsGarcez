@@ -18,9 +18,16 @@ Me chamo Daniel Garcêz, tenho 22 anos e sou natural de São Paulo. Concluí o e
   align-items: center;
   max-width: 500px;
 ">
-  <img height="80px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-  />
+  
+  <picture style="
+    background-color: #151B23;
+    border-radius: 15px;
+  ">
+    <img 
+      height="80px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    />
+  </picture>
   <img 
     height="80px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
