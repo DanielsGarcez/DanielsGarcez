@@ -14,12 +14,12 @@ Me chamo Daniel Garcêz, tenho 22 anos e sou natural de São Paulo. Concluí o e
 <div style="
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
-  gap: 40px;
   justify-items: center;
   align-items: center;
   max-width: 500px;
 ">
-  <img height="80px" 
+  <img height="80px"
+    style="margin-right:30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
   />
   <img 
