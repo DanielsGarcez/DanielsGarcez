@@ -8,10 +8,13 @@ Me chamo Daniel Garcêz, tenho 22 anos e sou natural de São Paulo. Concluí o e
 
 ---
 
-###🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 
 <i class="devicon-html5-plain colored"></i>
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img 
+  height="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
+/>
