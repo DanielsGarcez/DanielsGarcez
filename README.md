@@ -9,7 +9,7 @@ Me chamo Daniel Garcêz, tenho 22 anos e sou natural de São Paulo. Concluí o e
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/DanielsGarcez?color=cb9633&style=for-the-badge&labelColor=ffb833&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/DanielsGarcez?color=cb9633&style=for-the-badge&labelColor=ffb833&logo=star&label=estrelas&logoColor=white"
         />
     </a>
     <a href="https://github.com/DanielsGarcez?tab=followers">
@@ -44,7 +44,8 @@ Me chamo Daniel Garcêz, tenho 22 anos e sou natural de São Paulo. Concluí o e
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    styles="border-radius:50%"
 />
 <!-- <img 
     align="left" 
