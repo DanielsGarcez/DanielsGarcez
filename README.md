@@ -6,7 +6,6 @@
 
 Me chamo Daniel Garcêz, tenho 22 anos e sou natural de São Paulo. Concluí o ensino superior em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e busco me especializar ainda mais na área.
 
----
 
 # 🤖 Linguagens e Tecnologias
 
